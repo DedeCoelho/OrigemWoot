@@ -2,9 +2,14 @@
 
 <head>
 <title>Aula 1 - Curso de CSS<title>
+<style type="text/css">
+body {
+  background-color:#FF0000;
+}
+</style>
 </head>
 
-<body>
+<body bgcolor="#FF0000>
 </body>
 
 </html>
